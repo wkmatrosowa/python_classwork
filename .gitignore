@@ -1,2 +1,9 @@
 # Project exclude paths
 /venv/
+*.csv
+*.txt
+*.model
+*.bz2
+*.zip
+**/texts/**
+**/annot/**
