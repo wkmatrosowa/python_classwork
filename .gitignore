@@ -9,3 +9,4 @@
 *.json
 **/texts/**
 **/annot/**
+*.db
